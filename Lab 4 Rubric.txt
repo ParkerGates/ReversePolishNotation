@@ -1,0 +1,14 @@
+LAB #4: REVERSE POLISH NOTATION:
+
+Write a js program that takes a string that contains a Reverse Polish Notation expression and
+returns the result of the expression. Use your stack implementation to help you with the algorithm.
+
+Examples:
+
+Input: 4 5 *
+
+Result: 20
+
+Input: 3 5 10 + * 
+
+Result: 45
